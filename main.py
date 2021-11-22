@@ -1,5 +1,6 @@
 def main():
     print("my first")
+    print("my second")
 
 
 
